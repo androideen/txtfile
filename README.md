@@ -19,3 +19,5 @@ $array = $file->readAllAsArray();
 //store result in a string
 $content = $file->readAllAsString();
 ```
+
+Read more on [TL Templates](https://tltemplates.com/txtfile/)
