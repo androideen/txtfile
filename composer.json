@@ -1,0 +1,17 @@
+{
+    "name": "tltemplates/txtfile",
+    "description": "A class to help read and write file to txt file faster",
+    "keywords": ["text","txt", "file"],
+    "homepage": "https://tltemplates.com/txtfile",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tl Templates",
+            "email": "tlflutter87@gmail.com",
+            "homepage": "https://tltemplates.com"
+        }
+    ],
+    "require": {
+        "php": "^5.2",        
+    }
+}
