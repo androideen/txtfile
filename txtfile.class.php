@@ -1,5 +1,5 @@
 <?php
-
+namespace TLTemplates;
 
 class TxtFile {	
 	public $file;
