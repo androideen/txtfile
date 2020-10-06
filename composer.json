@@ -13,5 +13,21 @@
     ],
     "require": {
         "php": "^5.2"    
-    }
+    },
+    "autoload": {
+        "psr-4": {"TLTemplates\\": ""}
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "tltemplates/txtfile",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "https://github.com/androideen/txtfile/archive/master.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    ]
 }
