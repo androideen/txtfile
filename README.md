@@ -20,4 +20,4 @@ $array = $file->readAllAsArray();
 $content = $file->readAllAsString();
 ```
 
-Read more on [TL Templates](https://tltemplates.com/txtfile/)
+Read more on [TL Dev Tech](https://www.tldevtech.com/txtfile/)
